@@ -1,0 +1,107 @@
+{
+    "data": {
+        "home": {
+            "title": "Home"
+        },
+        "daten": {
+            "title": "Daten",
+            "data": [
+                {
+                    "stammDaten": {
+                        "title": "Stammdaten",
+                        "underMenu": [
+                            {
+                                "name": "Antrag/ Vertrag",
+                                "key": "antrag"
+                            },
+                            {
+                                "name": "Aufbauorganisation",
+                                "key": "aufbauorganisation"
+                            },
+                            {
+                                "name": "Depot",
+                                "key": "depot"
+                            },
+                            {
+                                "name": "Kunde",
+                                "key": "kunde"
+                            },
+                            {
+                                "name": "Mitarbeiter",
+                                "key": "mitarbeiter"
+                            },
+                            {
+                                "name": "Organisationseinheit",
+                                "key": "organisationseinheit"
+                            },
+                            {
+                                "name": "Portfolio",
+                                "key": "portfolio"
+                            },
+                            {
+                                "name": "Produkt",
+                                "key": "produkt"
+                            },
+                            {
+                                "name": "Produktgeber",
+                                "key": "produktgeber"
+                            },
+                            {
+                                "name": "Weiterbildung",
+                                "key": "weiterbildung"
+                            },
+                            {
+                                "name": "Zielvereinbarung",
+                                "key": "zielvereinbarung"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nachsclagewerte": {
+                        "title": "Nachschlagewerte",
+                        "underMenu": [
+                            {
+                                "name": "Abrechnungsperioden",
+                                "key": "abrechnungsperioden"
+                            },
+                            {
+                                "name": "Berufsbild",
+                                "key": "berufsbild"
+                            },
+                            {
+                                "name": "Kataloge",
+                                "key": "kataloge"
+                            },
+                            {
+                                "name": "Sparten",
+                                "key": "sparten"
+                            },
+                            {
+                                "name": "Spartengruppen",
+                                "key": "spartengruppen"
+                            },
+                            {
+                                "name": "Steuern",
+                                "key": "steuern"
+                            },
+                            {
+                                "name": "Vergütungspakete",
+                                "key": "Vergütungspakete"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "reports": {
+            "title": "Reports"
+        },
+        "vorp": {
+            "title": "VORP"
+        },
+        "transfer": {
+            "title": "Transfer"
+        }
+    }
+}

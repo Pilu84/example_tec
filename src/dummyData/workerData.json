@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "id": 11105,
+            "firstName": "Test",
+            "lastName": "User1",
+            "active": true,
+            "birthday": "992854272",
+            "organisationseinheit": "111 Test",
+            "birthPlace": "Berlin",
+            "birthName": "",
+            "languages": "Deutsch",
+            "nationality": "deutsch",
+            "gender": "männlich",
+            "family": "verheiratet",
+            "kontakt": {
+                "address": "123456, Berlin, Teststrasse 13",
+                "email": "test@test.com"
+            },
+            "hr": {
+                "entryDate": "1679155251",
+                "acces": "Empfehlung",
+                "recommendation": "",
+                "notice": "Lorem ipsum",
+                "endDate": "",
+                "endDateConfirmed": "",
+                "resignation": "",
+                "vermittelart": "Vertriebsmitarbeiter",
+                "workplace": "11102",
+                "workCared": "Max Muster"
+            },
+            "tax": {
+                "taxGroup": "4"
+            }
+        },
+        {
+            "id": 11106,
+            "firstName": "Test",
+            "lastName": "User2",
+            "active": true,
+            "birthday": "992854272",
+            "organisationseinheit": "111 Test",
+            "birthPlace": "Berlin",
+            "birthName": "",
+            "languages": "Deutsch",
+            "nationality": "deutsch",
+            "gender": "männlich",
+            "family": "verheiratet",
+            "kontakt": {
+                "address": "123456, Berlin, Teststrasse 3",
+                "email": "test@test.com"
+            },
+            "hr": {
+                "entryDate": "1681816861",
+                "acces": "Empfehlung",
+                "recommendation": "",
+                "notice": "",
+                "endDate": "",
+                "endDateConfirmed": "",
+                "resignation": "",
+                "vermittelart": "Vertriebsmitarbeiter",
+                "workplace": "11102",
+                "workCared": "Max Muster"
+            },
+            "tax": {
+                "taxGroup": "4"
+            }
+        },
+        {
+            "id": 11111,
+            "firstName": "Test",
+            "lastName": "User3",
+            "active": false,
+            "birthday": "992854272",
+            "organisationseinheit": "1121 Test2",
+            "birthPlace": "Berlin",
+            "birthName": "",
+            "languages": "Deutsch",
+            "nationality": "deutsch",
+            "gender": "weiblich",
+            "family": "verheiratet",
+            "kontakt": {
+                "address": "123456, Berlin, Teststrasse 13",
+                "email": "test@test.com"
+            },
+            "hr": {
+                "entryDate": "1681816861",
+                "acces": "Empfehlung",
+                "recommendation": "",
+                "notice": "",
+                "endDate": "1684408861",
+                "endDateConfirmed": "1684495261",
+                "resignation": "Mitarbeiter",
+                "vermittelart": "Vertriebsmitarbeiter",
+                "workplace": "11102",
+                "workCared": "Max Muster"
+            },
+            "tax": {
+                "taxGroup": "3"
+            }
+        },
+        {
+            "id": 11108,
+            "firstName": "Test",
+            "lastName": "User22",
+            "active": true,
+            "birthday": "992854272",
+            "organisationseinheit": "111 Test",
+            "birthPlace": "Berlin",
+            "birthName": "",
+            "languages": "Deutsch",
+            "nationality": "deutsch",
+            "gender": "männlich",
+            "family": "verheiratet",
+            "kontakt": {
+                "address": "123456, Berlin, Teststrasse 3",
+                "email": "test@test.com"
+            },
+            "hr": {
+                "entryDate": "1681816861",
+                "acces": "Empfehlung",
+                "recommendation": "",
+                "notice": "",
+                "endDate": "",
+                "endDateConfirmed": "",
+                "resignation": "",
+                "vermittelart": "Vertriebsmitarbeiter",
+                "workplace": "11102",
+                "workCared": "Max Muster"
+            },
+            "tax": {
+                "taxGroup": "4"
+            }
+        },
+        {
+            "id": 11109,
+            "firstName": "Test",
+            "lastName": "User21",
+            "active": true,
+            "birthday": "992854272",
+            "organisationseinheit": "111 Test",
+            "birthPlace": "Berlin",
+            "birthName": "",
+            "languages": "Deutsch",
+            "nationality": "deutsch",
+            "gender": "männlich",
+            "family": "verheiratet",
+            "kontakt": {
+                "address": "123456, Berlin, Teststrasse 3",
+                "email": "test@test.com"
+            },
+            "hr": {
+                "entryDate": "1681816861",
+                "acces": "Empfehlung",
+                "recommendation": "",
+                "notice": "",
+                "endDate": "",
+                "endDateConfirmed": "",
+                "resignation": "",
+                "vermittelart": "Vertriebsmitarbeiter",
+                "workplace": "11102",
+                "workCared": "Max Muster"
+            },
+            "tax": {
+                "taxGroup": "4"
+            }
+        }
+    ]
+}
