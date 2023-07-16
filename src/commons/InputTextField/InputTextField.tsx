@@ -96,6 +96,7 @@ export const InputTextField = (function InputTextField(props: InputTextFieldProp
                         className={classes.baseInput}
                         value={formData[formName] ? dayjs(+(formData[formName] ?? 0) * 1000) : null}
                         onChange={(dateChanged) => {
+                            console.log('onchanged: ', dateChanged);
                             if (dateChanged) {
                                 const newDate = Math.floor(+dateChanged.toDate().getTime() / 1000.0);
                                 const data: FormData = { [formName]: newDate?.toString() ?? '' };

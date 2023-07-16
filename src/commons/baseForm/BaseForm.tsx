@@ -92,7 +92,6 @@ export const BaseForm = React.memo(function BaseForm(props: BaseFormProps) {
     }
     )
 
-
     const handlerSubmit = useCallback(() => {
         const data = {
             ...form.field.personalnummer.getValue(),
@@ -104,7 +103,7 @@ export const BaseForm = React.memo(function BaseForm(props: BaseFormProps) {
             ...form.field.family.getValue(),
             ...form.field.address.getValue(),
             ...form.field.access.getValue(),
-            ...form.field.endData.getValue(),
+            ...form.field.endDate.getValue(),
             ...form.field.endDateConfirmed.getValue()
         };
 

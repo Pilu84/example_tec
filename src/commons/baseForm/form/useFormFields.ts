@@ -20,11 +20,6 @@ export const useFormField = (type: InputTextFieldType, initialInput: FormData | 
         [values]
     );
 
-    // const onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    //     console.log('az onChange: ', event);
-    //     setValues({ [event.currentTarget.id]: event.currentTarget.value });
-    // };
-
     const onChange = (data: FormData) => {
         setValues(data);
     };
